@@ -1,20 +1,16 @@
 ---
-action_label: Read More &rarr;
+action_label: About me &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
-image_left: true
+description: I am a third-year student at École Polytechnique majoring in applied mathematics with an entrepreneurship minor. Passionate about data science and its applications, my goal is to improve human life thanks to data-driven solutions.
+image_left: false
 images:
-- img/revoir.jpg
+- img/me.png
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
-text_align_left: false
-title: Hugo Apéro
+subtitle: Engineering student @ École Polytechnique, Data Enthusiast
+text_align_left: true
+title: Abdessalam Ed-dib
 type: home
 ---
 
