@@ -1,10 +1,7 @@
 ---
 date: "2022-09-10T13:38:41-06:00"
-description: 
-  You can use this form to contact me about work opportunities, collaborations, or simply to say hello.  
-    
-    
-  I also love hearing if my articles and projects have been helpful for you, and how they could be improved.  
+description: "You can use this form to contact me about work opportunities, collaborations, or simply to say hello.
+<br> I also love hearing if my articles and projects have been helpful for you, and how they could be improved."
   
 draft: false
 formspree_form_id: id-from-formspree
