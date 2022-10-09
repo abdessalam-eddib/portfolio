@@ -1,10 +1,8 @@
 ---
-author: Eric Anderson
+author: Abdessalam Ed-dib
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-01"
+- Explainable AI
+date: "2021-06-10"
 draft: false
 excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
   integration. All you need to activate the form is a valid recipient email address
@@ -19,10 +17,12 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
+subtitle: A new way to interpret tree-based models
 tags:
-- hugo-site
-title: Bakeoff
+- explainibility
+- data science
+- xai
+title: Banzhaf Explainer
 ---
 
 ![Formspree Logo](formspree-logo.png)
