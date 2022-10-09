@@ -18,7 +18,7 @@ show_post_thumbnail: true
 sidebar:
   author: Abdessalam Ed-dib
   description: "In this blog, I share machine learning concepts I have learned so far during my ML Journey"
-  show_sidebar_adunit: true
+  show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   title: ML Journey
