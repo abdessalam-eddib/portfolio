@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle: Engineering student @ École Polytechnique, Data Enthusiast
 text_align_left: true
-title: Abdessalam Ed-dib
+title: Abdessalam Ed-dib, MSc
 type: home
 ---
 
