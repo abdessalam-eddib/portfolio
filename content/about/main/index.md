@@ -6,11 +6,13 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  Passionate about artificial intelligence and its applications, I have chosen to pursue a Master of Science in applied mathematics at Ecole Polytechnique, one of the best engineering schools in France.  
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better.  
+  Furthermore, I believe that getting our hands dirty is the best way to learn. As a result, I am constantly striving to expand my knowledge in this sector by covering as many topics as possible on my own.  
+
+  Currently, I collaborate on one of [Omdena](https://omdena.com/)’s projects with a team of more than forty data science enthusiasts to build an AI‑powered product to reduce traffic accidents in Liverpool. 
   
-  -  &nbsp; **[My resume](https://happygitwithr.com/rstudio-git-github.html#push-your-local-changes-online-to-github)**
+  -  &nbsp; **[My resume](resumeAbdes.pdf)**
 show_outro: true
 outro: |
   <i class="fas fa-heart pr2"></i>Thank you for visiting!

@@ -8,11 +8,9 @@ audio_link_label: "How to say my name" # leave blank to exclude
 link_list_label: "Interested In" # bookmarks, elsewhere, etc.
 link_list:
 - name: Operations Research
-  url: https://en.wikipedia.org/wiki/Paris
+  url: https://en.wikipedia.org/wiki/Operations_research
 - name: Machine Learning
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: Finance
-  url: https://en.wikipedia.org/wiki/People
+  url: https://en.wikipedia.org/wiki/Machine_learning
 ---
 
 ** index doesn't contain a body, just front matter above.
